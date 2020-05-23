@@ -1,4 +1,5 @@
 # Handwritten-English-Alphabet-Recognition
-Using SVM to create a model which would predict/recognize the english alphabet from our own dataset.
+Using SVM and other techniques to create a model which would predict/recognize the english alphabet from our own dataset.
 
-Adding a Contributer Raakhi
+    Check out Kaggle Kernel: https://www.kaggle.com/mohneesh7/character-recognition
+
